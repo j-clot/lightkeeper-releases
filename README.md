@@ -2,13 +2,13 @@
 
 Lightkeeper is a desktop companion for Lighthouse Studio.
 
-## ⬇️ [Download the latest version](https://github.com/j-clot/lightkeeper-releases/releases/latest)
+## [Download the latest version](https://github.com/j-clot/lightkeeper-releases/releases/latest)
 
 **Already using Lightkeeper? You don't need to do anything.** It updates itself the next time you open it.
 
 **Installing it for the first time?** Open the link above and follow the steps below. You only do this once.
 
-### 🪟 Windows
+### Windows
 
 1. On that page, under **Assets**, click the file ending in **x64-setup.exe** to download it.
 
